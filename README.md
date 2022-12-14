@@ -5,12 +5,14 @@
 <b>RDBMS Used:</b> MySQL
 
 <b>About Sakila Database:</b>
-1. The Sakila sample database is a fictitious database designed to represent a DVD rental store. The tables of the database include film, film_category, actor, customer, rental, payment and inventory among others.
-2. The Sakila sample database is intended to provide a standard schema that can be used for examples in books, tutorials, articles, samples, and so forth.
-3. Detailed information about the database can be found on the MySQL website: https://dev.mysql.com/doc/sakila/en/
+1. The Sakila sample database is a fictitious database designed to represent a DVD rental store it is a is a nicely normalized schema modelling a DVD rental store, featuring things like films, actors, film-actor relationships and a central inventory table that connects films, store, rentals and payments
+2. Detailed information about the database can be found on the MySQL website: https://dev.mysql.com/doc/sakila/en/
+
 
 
 <b>Entity Relationship Diagram(ERD):</b>
-<img width="1520" alt="Sakila Database ERD" src="https://user-images.githubusercontent.com/77091413/206920706-30d61f9c-ce75-4e1b-bfed-6c95aec8ed19.png">
+![image](https://user-images.githubusercontent.com/77091413/207699529-ea74881c-7a90-440f-a1ef-ac4ae6534c80.png)
 
 
+
+<b>Note</b>: The database has solely used just for learning and educational purpose and not for commercial purpose.
