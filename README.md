@@ -1,6 +1,6 @@
 # SQL-Data-Analysis-for-Sakila-DB
 
-<b>Tech Stack:</b> SQL(formerly SEQUEL)
+<b>Tech Stack:</b> SQL(formerly SEQUEL), Micorsoft Excel
 
 <b>RDBMS Used:</b> MySQL
 
