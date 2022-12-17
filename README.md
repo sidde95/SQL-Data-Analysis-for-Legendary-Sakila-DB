@@ -1,8 +1,7 @@
 # SQL-Data-Analysis-for-Sakila-DB
 
-<b>Tech Stack:</b> SQL(formerly SEQUEL), Micorsoft Excel
-
-<b>RDBMS Used:</b> MySQL
+<b>Tech Stack:</b> SQL(formerly SEQUEL)
+<b>Tools Used:</b> MySQL, MS-EXCEL
 
 <b>About Sakila Database:</b>
 1. The Sakila sample database is a fictitious database designed to represent a DVD rental store it is a is a nicely normalized schema modelling a DVD rental store, featuring things like films, actors, film-actor relationships and a central inventory table that connects films, store, rentals and payments
