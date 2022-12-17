@@ -40,5 +40,7 @@
 <li>Datatime functions</li>
 <li>Joins - Inner & Outer</li>
 <li>RUNNING TOTAL</li>
+  
+<br> 
 
 <b>Note</b>: The database has solely used just for learning and educational purpose and not for commercial purpose.
