@@ -13,6 +13,32 @@
 <b>Entity Relationship Diagram(ERD):</b>
 ![image](https://user-images.githubusercontent.com/77091413/207699529-ea74881c-7a90-440f-a1ef-ac4ae6534c80.png)
 
+<b> Topics Covered in the SQL Analysis</b>
 
+<ol>
+<li>DDL</li>
+<ol>
+  <li>CREATE</li>
+  <li>ALTER</li>
+  <li>CREATE</li>
+  <li>DROP</li>
+</ol>  
+<li>DML</li>
+<ol>
+  <li>INSERT</li>
+  <li>UPDATE</li>
+  <li>SELECT</li>
+</ol>
+</ol>
+
+<b>Other Commands and Functions:</b>
+<ol>
+<li>WHERE Clause</li>
+<li>GROUP BY Clause</li>
+<li>HAVING Clause</li>
+<li>CASE Statements</li>
+<li>Datatime functions</li>
+<li>Joins - Inner & Outer</li>
+<li>RUNNING TOTAL</li>
 
 <b>Note</b>: The database has solely used just for learning and educational purpose and not for commercial purpose.
